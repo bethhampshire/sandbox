@@ -1,0 +1,25 @@
+.monitor-buttons{
+    box-shadow: 3px 3px black;
+    border: 2px black solid;
+    background-color: #07f49e;
+    width: 8rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+
+    &:hover{
+        cursor: pointer;
+        box-shadow: 1px 1px black;  
+        background-color: #07f49e;
+        -webkit-transform: translate(3px, 3px);
+	    transform: translate(3px, 3px);
+    }
+
+    &:disabled{
+        color: white;
+        background-color: #42047e;
+        box-shadow: 1px 1px black;
+        -webkit-transform: translate(3px, 3px);
+	    transform: translate(3px, 3px);
+        border-color: #42047e;
+    }
+}

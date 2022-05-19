@@ -1,0 +1,26 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Desktop - 1" clip-path="url(#clip0_2_2)">
+<g id="Socket">
+<rect id="Rectangle 4" x="12.7487" y="337" width="161" height="208" rx="33" fill="#E7E7E7"/>
+<path id="Highlight" fill-rule="evenodd" clip-rule="evenodd" d="M171.254 356.038L14.9827 356.962C20.0377 345.221 31.7124 337 45.307 337H141.344C154.579 337 165.995 344.791 171.254 356.038Z" fill="#F7F5F5"/>
+</g>
+<g id="Plug">
+<rect id="Rectangle 5" x="58.7487" y="406" width="14" height="70" rx="6" fill="#C4C4C4"/>
+<rect id="Rectangle 6" x="105.749" y="406" width="14" height="70" rx="6" fill="#C4C4C4"/>
+<rect id="Rectangle 7" x="38.7487" y="424" width="100" height="32" rx="16" fill="#9A9A9A"/>
+<ellipse id="Ellipse 1" cx="88.2487" cy="439.5" rx="19.5" ry="16.5" fill="#474747"/>
+</g>
+<path id="Cable" d="M88.2236 441.844C88.2236 441.844 191.249 526 88.2237 754.5C-14.8014 983 241.224 906.844 241.224 906.844" stroke="#474747" stroke-width="16" stroke-linecap="round"/>
+<g id="Monitor">
+<path id="Back" d="M1417.27 289.591C1424.73 296.586 1429 306.256 1429 316.479V701.525C1429 717.483 1423.77 733.002 1414.11 745.705L1274 930C1274 930 1274 36.9143 1274 99.1034C1274 150.809 1381.15 255.698 1417.27 289.591Z" fill="#979696"/>
+<path id="Monitor_2" fill-rule="evenodd" clip-rule="evenodd" d="M248 33C217.072 33 192 58.0721 192 89V935C192 965.928 217.072 991 248 991H1218C1248.93 991 1274 965.928 1274 935V89C1274 58.0721 1248.93 33 1218 33H248ZM304 164C300.686 164 298 166.686 298 170V705C298 708.314 300.686 711 304 711H1053C1056.31 711 1059 708.314 1059 705V170C1059 166.686 1056.31 164 1053 164H304Z" fill="#F0ECEC"/>
+</g>
+<rect id="VideoInput" x="296" y="788" width="763" height="107" fill="#7C7A7A"/>
+<ellipse id="OnButton" cx="1166" cy="840.5" rx="48" ry="49.5" fill="#2D2D2D"/>
+</g>
+<defs>
+<clipPath id="clip0_2_2">
+<rect width="1440" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>

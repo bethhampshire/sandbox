@@ -1,0 +1,42 @@
+.content{
+    display: flex;
+    border: red solid 2px;
+    justify-content: space-around;
+    padding: 1rem;
+
+    .component-view{
+        border: black solid 2px;
+        display: flex;
+        flex-direction: column;
+        width: 85%;
+
+        .button-container{
+            border: blue solid 2px;
+        }
+    }
+
+    .component-selector-panel{
+        border: orange solid 10px;
+        width: 10%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        //padding: 1rem;
+    }
+}
+.button-container{
+    position: absolute;
+    left: 67vw;
+    top: 20vh;
+    width: 8rem;
+}
+
+.tv-title{
+    position: absolute;
+    left: 45vw;
+    top: 4vh;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-stretch: expanded;
+}
+
